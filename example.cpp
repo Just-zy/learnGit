@@ -1,7 +1,7 @@
 #include<iostream>
 #include<unordered_map>
 using namespace std;
-
+//windows记录
 //设计一个LRU
 // L| 1, 4, 5 |R
 class LRUCache{
